@@ -1,4 +1,5 @@
 ### Useful Resources for Grad School and PhD SoPs
+#### Note: This is a compilation of SOPs collected from various online sources. I do not own or claim ownership of these resources. 
 
 ### SOP
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider (Prof at Georgetown University)](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80) -- A Prof's perspective, really helpful.
